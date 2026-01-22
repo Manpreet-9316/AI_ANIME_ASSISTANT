@@ -1,0 +1,8 @@
+tts.tts_to_file(
+    text=reply,
+    speaker_wav=SPEAKER_WAV,
+    language=LANGUAGE,
+    file_path=OUTPUT_PATH,
+    temperature=voice["temperature"],
+    speed=voice["speed"]
+)
