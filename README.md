@@ -1,4 +1,4 @@
-# 🎀 AI Anime Assistant - Backend
+# 🎀 AI Anime Assistant EMILY- Backend
 
 <div align="center">
 
